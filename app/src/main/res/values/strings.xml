@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="dummy">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit, odio ut ultricies eleifend, tortor nisl dictum lorem, vitae dapibus orci elit a libero. Phasellus in euismod risus. Aenean quis enim at mi blandit aliquet. Vestibulum et luctus urna. Nam quis elementum erat. Nulla sit amet convallis neque, eu tincidunt augue. Quisque vel nisl a sapien elementum vehicula. Aliquam id eros lorem. Pellentesque sed ex quis justo ultricies commodo. \n\nMaecenas dignissim neque at enim gravida luctus. Aenean gravida condimentum pretium. Nullam vitae vestibulum leo, eu tempus lorem. In nec eleifend leo, vel aliquet quam. Sed posuere ut mauris in tristique. Fusce lacinia erat ullamcorper efficitur molestie. Maecenas rutrum ex non volutpat tristique. Suspendisse malesuada dapibus dui at faucibus. Morbi mollis, nisi tincidunt vehicula tempor, orci risus finibus nunc, in porta elit diam id nunc. Sed non nunc nec urna vestibulum vulputate a vel nunc. Phasellus sit amet finibus odio. Aliquam erat volutpat. Nam pellentesque lorem in hendrerit malesuada. </string>
+</resources>
